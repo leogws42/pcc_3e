@@ -10,3 +10,5 @@ online_resources_site/site/
 
 *.sqlite3
 
+
+/curso_venv
